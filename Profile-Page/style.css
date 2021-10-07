@@ -5,6 +5,9 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+a {
+  color: blue;
+}
 
 /* styling for top header - nav */
 .nav {
@@ -181,7 +184,4 @@ body {
 .more {
   padding: 10px;
   border-top: 3px solid gray;
-}
-a {
-  color: blue;
 }
